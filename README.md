@@ -4,9 +4,9 @@
 
 ### Lista de paginas:
 
-- [Pagina 1](./paginas%20tarde/pagina1.html)
-- [Pagina 2](./paginas%20tarde/pagina2.html)
+- [Pagina 1](./paginas/pagina1.html)
+- [Pagina 2](./paginas/pagina2.html)
 
 ### Novo site estilizado:
 
-- [Site](./paginas%20tarde/novosite.html)
+- [Site](./paginas/novosite.html)
